@@ -1,0 +1,27 @@
+syntax = "proto3";
+package transaction;
+
+message EthereumTxIn {
+  string nonce = 1;
+  string to = 2;
+  string value = 3;
+  string gas_price = 4;
+  string gas = 5;
+  string data = 6;
+  string network = 7;
+  string access_list = 8;
+  string max_priority_fee_per_gas = 9;
+  string transaction_type = 10;
+}
+
+message EthereumTxOut {
+  string signature = 1;
+}
+
+message EthereumMsgIn {
+  string value = 1;
+}
+
+message EthereumMsgOut {
+  string signature = 1;
+}
