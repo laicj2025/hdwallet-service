@@ -1,6 +1,6 @@
 name: qmrmb_hdwallet_service
 description: Qmrmb hdwallet service for wallet.
-version: 0.1.18
+version: 0.1.19
 repository: https://github.com/laicj2025/hdwallet-service
 
 environment:
