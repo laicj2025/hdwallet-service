@@ -1,3 +1,7 @@
+## 0.1.19
+
+- support M150
+
 ## 0.1.18
 
 - support OCEANIA

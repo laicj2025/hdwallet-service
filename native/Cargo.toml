@@ -8,9 +8,9 @@ name = "hdwallet_ffi"
 crate-type = ["cdylib"]
 
 [dependencies]
-tcx-chain= {git="https://github.com/laicj2025/token-core.git",version="0.1.1",branch="feature_qmrmb"}
-tcx-primitive = {git="https://github.com/laicj2025/token-core.git",version="0.1.1",branch="feature_qmrmb"}
-tcx = {git="https://github.com/laicj2025/token-core.git",version="0.1.1",branch="feature_qmrmb"}
+tcx-chain= {git="https://github.com/laicj2025/token-core.git",version="0.1.1",branch="m150"}
+tcx-primitive = {git="https://github.com/laicj2025/token-core.git",version="0.1.1",branch="m150"}
+tcx = {git="https://github.com/laicj2025/token-core.git",version="0.1.1",branch="m150"}
 hex = "0.4.0"
 failure = "0.1.5"
 lazy_static = "1.3.0"
