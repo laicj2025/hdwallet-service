@@ -2,7 +2,7 @@ import 'dart:developer';
 import 'dart:io';
 
 import 'package:fast_base58/fast_base58.dart';
-import 'package:hdwallet_service/src/util/helper.dart';
+import 'package:qmrmb_hdwallet_service/src/util/helper.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:fixnum/fixnum.dart' as $fixnum;
 import 'ffi/wallet_api.dart';

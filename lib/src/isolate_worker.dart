@@ -3,7 +3,7 @@
 import 'dart:async';
 import 'dart:isolate';
 
-import 'package:hdwallet_service/src/hdwallet.dart';
+import 'package:qmrmb_hdwallet_service/src/hdwallet.dart';
 
 import 'types/wallet.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:hdwallet_service/src/util/helper.dart';
+import 'package:qmrmb_hdwallet_service/src/util/helper.dart';
 
 void main() {
   group('Wallet ffi test', () {

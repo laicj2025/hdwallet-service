@@ -1,7 +1,7 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:hdwallet_service/hdwallet_service.dart';
+import 'package:qmrmb_hdwallet_service/hdwallet_service.dart';
 
 void main() {
   runApp(const MyApp());

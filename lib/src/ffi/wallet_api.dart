@@ -4,8 +4,8 @@ import 'dart:io';
 
 import 'package:ffi/ffi.dart';
 import 'package:fixnum/fixnum.dart';
-import 'package:hdwallet_service/src/ffi/protobuf/gen/btc_fork.pb.dart';
-import 'package:hdwallet_service/src/types/chain.dart';
+import 'package:qmrmb_hdwallet_service/src/ffi/protobuf/gen/btc_fork.pb.dart';
+import 'package:qmrmb_hdwallet_service/src/types/chain.dart';
 import 'package:hex/hex.dart';
 import 'package:path_provider/path_provider.dart';
 import '../util/helper.dart';
