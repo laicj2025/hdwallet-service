@@ -1,7 +1,7 @@
-# hdwallet_service
-Hdwallet service
+# qmrmb_hdwallet_service
+Qmrmb hdwallet service
 
-![Pub Version (including pre-releases)](https://img.shields.io/pub/v/hdwallet_service)
+![Pub Version (including pre-releases)](https://img.shields.io/pub/v/qmrmb_hdwallet_service)
 
 ## Setup and Tools
 
