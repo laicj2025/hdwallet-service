@@ -1,3 +1,7 @@
+## 0.1.20
+
+- support SOLOMON
+
 ## 0.1.19
 
 - support M150
