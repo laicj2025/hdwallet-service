@@ -5,7 +5,7 @@ edition = "2018"
 
 [lib]
 name = "hdwallet_ffi"
-crate-type = ["cdylib"]
+crate-type = ["rlib"]
 
 [dependencies]
 tcx-chain= {git="https://github.com/laicj2025/token-core.git",version="0.1.1",branch="m150"}
